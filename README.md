@@ -12,6 +12,6 @@ Users can toggle between Normal mode and Dark mode with a click of a button. <br
 
 4. In the chrome://extensions/ page, click the Load unpacked extension button and select the unzipped folder of the downloaded extension to install it.
 
-<br><br> You can use the extension by clicking on the whatsapp icon that appears next to your address bar.
+<br> You can use the extension by clicking on the whatsapp icon that appears next to your address bar.
 
 If you are in Whatsapp Web page, the toggle button for switching will appear. If you are in some other page, the popup shows a link to directly open Whatsapp Web page.
