@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+
+  "name": "Whatsapp Web Dark Mode",
+  "description": "Toggle Dark mode in Whatsapp Web",
+  "version": "1.0",
+  "author": "Shawn",
+
+  "icons": {
+    "48": "icon.png"
+  },
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Whatsapp Web Dark mode",
+    "default_popup": "popup.html"
+  },
+ "permissions": [
+        "tabs",
+        "http://*/",
+        "https://*/"
+    ]
+  
+}
